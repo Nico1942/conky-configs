@@ -1,5 +1,5 @@
 # Mis configuraciones de conky
-=============================
+===
 
 ### bottom bar
 ![](./img/bottom_bar.png)
